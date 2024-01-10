@@ -11,13 +11,13 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/chuheridangwu/ipa_online/main/Shadowrocket_2.2.44.ipa</string>
+					<string>https://download7.mcloud.139.com/storageWeb/servlet/downloadServlet?code=TkYxMTExWXhBUXAxc1Q1MTYxN3c0TllMRDgz&amp;un=E2C33D0E19EDF6FFE21EDC7DBF1C27A7E612D6902327347F9ADCE17BB1C1E100&amp;dom=D975&amp;rate=0&amp;txType=0</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.liguangming.Shadowrocket</string>
+				<string>com.thaisms.app</string>
 				<key>bundle-version</key>
 				<string>2.4.2</string>
 				<key>kind</key>
