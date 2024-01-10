@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://download7.mcloud.139.com/storageWeb/servlet/downloadServlet?code=TkYxMTExWXhBUXAxc1Q1MTYxN3c0TllMRDgz&amp;un=E2C33D0E19EDF6FFE21EDC7DBF1C27A7E612D6902327347F9ADCE17BB1C1E100&amp;dom=D975&amp;rate=0&amp;txType=0</string>
+					<string>https://download7.mcloud.139.com/storageWeb/servlet/downloadServlet?code=TkcxMTExWXhBUXAxc1Q1MTUxN3c0TllNRzVV&amp;un=E2C33D0E19EDF6FFE21EDC7DBF1C27A7E612D6902327347F9ADCE17BB1C1E100&amp;dom=D975&amp;rate=0&amp;txType=0</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -23,7 +23,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Shadowrocket</string>
+				<string>MEA_IPA</string>
 			</dict>
 		</dict>
 	</array>
